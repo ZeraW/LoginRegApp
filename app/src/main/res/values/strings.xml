@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">LoginRegApp</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="signIn">SIGN IN</string>
+    <string name="signInSsmall">Sign In</string>
+
+    <string name="signUpSmall">Sign Up</string>
+    <string name="signUpCaps">SIGN UP</string>
+
+    <string name="name">User Name</string>
+    <string name="confirmPassword">Confirm Password</string>
+
+    <string name="newUser">New user?</string>
+    <string name="forgetpassword">Forget Your Password</string>
+    <string name="recover">Recover</string>
+
+    <string name="already_user">Already have Account?</string>
+
+
+    <string name="facebookSignUp">Sign Up With Facebook</string>
+    <string name="emailSignUp">Sign Up With Email</string>
+
+    <string name="signUpWith">Sign Up With</string>
+
+</resources>
